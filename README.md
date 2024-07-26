@@ -11,6 +11,3 @@ React Native
 Consumo de JSON para dados de restaurantes e comidas
 
 
-
-https://github.com/user-attachments/assets/ab96f22a-3ec8-42a2-ba43-cc12f3953291
-
