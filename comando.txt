@@ -1,0 +1,2 @@
+SERVIDOR API RESTAURANTES: npx json-server db.json
+SERVIDOR CELULAR : npx expo start
